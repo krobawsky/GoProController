@@ -1,0 +1,409 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:2:1-197:12
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:2:1-197:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2271e05a779b272d2064c23ff78c8245\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\f4e3c6944a86b9b0c29fc968acef3510\AndroidManifest.xml:14:4-17:12
+MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\wearable-1.1.0.aar\0a7910a9b3008bc342a60de2276bfaea\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\c53f6c52237abefb622d58eee4b4810a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:14:4-20:12
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\73aafcd987243be3dde30a12ce0a5876\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:2:1-197:12
+	package
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:16:22-71
+permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:18:17-72
+permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:19:5-22:44
+	android:protectionLevel
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:22:9-41
+	android:permissionGroup
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:20:9-53
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:27:5-29:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:29:9-35
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:28:9-64
+uses-permission#com.google.android.permission.PROVIDE_BACKGROUND
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:32:22-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:34:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:36:5-60
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:36:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:38:5-69
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:38:22-66
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:40:5-66
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:40:19-63
+application
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:44:5-195:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2271e05a779b272d2064c23ff78c8245\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2271e05a779b272d2064c23ff78c8245\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\f4e3c6944a86b9b0c29fc968acef3510\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\f4e3c6944a86b9b0c29fc968acef3510\AndroidManifest.xml:16:5-19
+MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\wearable-1.1.0.aar\0a7910a9b3008bc342a60de2276bfaea\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\wearable-1.1.0.aar\0a7910a9b3008bc342a60de2276bfaea\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\c53f6c52237abefb622d58eee4b4810a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\c53f6c52237abefb622d58eee4b4810a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\73aafcd987243be3dde30a12ce0a5876\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\73aafcd987243be3dde30a12ce0a5876\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:47:9-39
+	android:icon
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:46:9-39
+	android:allowBackup
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:45:9-35
+	android:theme
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:48:9-44
+meta-data#com.google.android.gms.car.notification.SmallIcon
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:49:9-51:50
+	android:resource
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:51:13-47
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:50:13-77
+meta-data#com.google.android.gms.car.application
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:52:9-54:59
+	android:resource
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:53:13-66
+activity#com.chernowii.hero4.DispositivosBT
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:63:9-71:20
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:64:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:66:13-70:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:67:17-69
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:67:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:69:27-74
+activity#com.chernowii.hero4.Main2Activity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:74:13-42
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:73:13-42
+activity#com.chernowii.hero4.MainActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:77:9-80:54
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:80:13-42
+	android:icon
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:79:13-43
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:78:13-41
+activity#com.chernowii.hero4.WearControls
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:81:9-86:72
+	android:exported
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:84:13-36
+	android:theme
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:86:13-69
+	android:taskAffinity
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:85:13-36
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:82:13-41
+	android:allowEmbedded
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:83:13-41
+receiver#com.chernowii.hero4.MyPostNotificationReceiver
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:88:9-94:20
+	android:exported
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:90:13-36
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:89:13-55
+intent-filter#action:name:com.chernowii.hero4.SHOW_NOTIFICATION
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:91:13-93:29
+action#com.chernowii.hero4.SHOW_NOTIFICATION
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:92:17-80
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:92:25-77
+activity#com.chernowii.hero4.MyDisplayActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:96:9-101:72
+	android:exported
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:99:13-36
+	android:theme
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:101:13-69
+	android:taskAffinity
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:97:13-46
+	android:allowEmbedded
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:98:13-41
+receiver#com.chernowii.hero4.MyPostNotificationReceiver2
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:103:9-109:20
+	android:exported
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:105:13-36
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:104:13-56
+activity#com.chernowii.hero4.ProtuneControls
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:111:9-113:71
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:113:13-68
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:112:13-44
+activity#com.chernowii.hero4.LiveStuff
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:114:9-116:65
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:116:13-62
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:115:13-38
+activity#com.chernowii.hero4.LiveStuffH4
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:117:9-119:68
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:119:13-65
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:118:13-40
+activity#com.chernowii.hero4.WelcomeScreen
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:120:9-122:69
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:122:13-66
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:121:13-42
+activity#com.chernowii.hero4.HDR
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:123:9-125:58
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:125:13-55
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:124:13-32
+receiver#com.chernowii.hero4.GoProWidget
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:127:9-135:20
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:127:19-46
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:128:13-130:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:129:17-84
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:129:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:132:13-134:62
+	android:resource
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:134:17-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:133:17-58
+activity#com.chernowii.hero4.MediaBrowser
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:137:9-139:68
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:139:13-65
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:138:13-41
+activity#com.chernowii.hero4.TriggerActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:140:9-142:62
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:142:13-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:141:13-44
+activity#com.chernowii.hero4.TagActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:143:9-145:58
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:145:13-55
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:144:13-40
+activity#com.chernowii.hero4.StopActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:146:9-148:59
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:148:13-56
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:147:13-41
+activity#com.chernowii.hero4.VideoActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:149:9-151:60
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:151:13-57
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:150:13-42
+activity#com.chernowii.hero4.PhotoActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:152:9-154:60
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:154:13-57
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:153:13-42
+activity#com.chernowii.hero4.MSActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:155:9-157:57
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:157:13-54
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:156:13-39
+activity#com.chernowii.hero4.Calculator
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:158:9-160:65
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:160:13-62
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:159:13-39
+activity#com.chernowii.hero4.ProfileConfig
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:161:9-163:69
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:163:13-66
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:162:13-42
+activity#com.chernowii.hero4.OldCamActivity
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:164:9-166:62
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:166:13-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:165:13-43
+activity#com.chernowii.hero4.OCTrigger
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:167:9-169:64
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:169:13-61
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:168:13-38
+activity#com.chernowii.hero4.OCTurnOff
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:170:9-172:65
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:172:13-62
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:171:13-38
+activity#com.chernowii.hero4.OCTurnOn
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:173:9-175:64
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:175:13-61
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:174:13-37
+activity#com.chernowii.hero4.OCStop
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:176:9-178:61
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:178:13-58
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:177:13-35
+activity#com.chernowii.hero4.OCVideo
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:179:9-181:62
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:181:13-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:180:13-36
+activity#com.chernowii.hero4.OCPhoto
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:182:9-184:62
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:184:13-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:183:13-36
+activity#com.chernowii.hero4.OCBurst
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:185:9-187:62
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:187:13-59
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:186:13-36
+activity#com.chernowii.hero4.OCTimelapse
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:188:9-190:66
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:190:13-63
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:189:13-40
+activity#com.chernowii.hero4.OCProtuneControls
+ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:191:9-193:73
+	android:label
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:193:13-70
+	android:name
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml:192:13-46
+uses-sdk
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2271e05a779b272d2064c23ff78c8245\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\2271e05a779b272d2064c23ff78c8245\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\f4e3c6944a86b9b0c29fc968acef3510\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\cardview-v7-21.0.3.aar\f4e3c6944a86b9b0c29fc968acef3510\AndroidManifest.xml:15:5-42
+MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\wearable-1.1.0.aar\0a7910a9b3008bc342a60de2276bfaea\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.support:wearable:1.1.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\wearable-1.1.0.aar\0a7910a9b3008bc342a60de2276bfaea\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\c53f6c52237abefb622d58eee4b4810a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\c53f6c52237abefb622d58eee4b4810a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\73aafcd987243be3dde30a12ce0a5876\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.1.aar\73aafcd987243be3dde30a12ce0a5876\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ricardo\Documents\xdxd\Nueva carpeta\GoProHERO4Controller\app\src\main\AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.0] C:\Users\Ricardo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.0.aar\3bf00c0d91b4efba3325ac4b11213faf\AndroidManifest.xml:18:60-113
